@@ -3,8 +3,9 @@ name: distentio-focus-recovery
 description: Diagnose and remedy attention fragmentation using Augustine's threefold present (memory, attention, expectation) to restore focused productivity and gather the scattered self.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3844
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - distentio-focus-recovery
 - structure
